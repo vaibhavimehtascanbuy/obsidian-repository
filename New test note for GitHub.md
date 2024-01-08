@@ -1,0 +1,1 @@
+dummy note to test Obsidian for Git plugin
